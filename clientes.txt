@@ -1,0 +1,3 @@
+{'nome': 'asddas', 'login': 'dasadsdas', 'email': 'dasdas', 'telefone': 'dasadsdas', 'endereço(Rua, Número, Bairro, Cidade, CEP)': 'dasads'}
+{'nome': 'armando', 'login': 'armando123', 'email': 'jose@gmail.com', 'telefone': '8899923230', 'endereço(Rua, Número, Bairro, Cidade, CEP)': 'Viera de vila, 58, simoes, russas, 6293039'}
+{'nome': 'Enzo Bezerra Moura', 'login': 'mourin124', 'senha': '1234', 'email': 'mourapastel@gmail.com', 'telefone': '88999967108', 'endereço(Rua, Número, Bairro, Cidade, CEP)': 'Rua vieira de melo, 58, jose simoes, kimoeiro, 62930000', 'data de nascimento': '22/10/2003'}
